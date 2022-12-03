@@ -1,0 +1,1 @@
+in the kernel I have just added one line at the 451th place with the SYS_kernel_2d_memcpy function.
